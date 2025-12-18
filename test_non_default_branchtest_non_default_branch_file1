@@ -1,3 +1,5 @@
 test_non_default_branch 分支新创建文件1
 
 2025-12-18 新增一行 test 已merge成功的PR patch是否有变更
+
+2025-12-18 pull/8 关闭后，继续修改文件内容 看PR patch 是否有变更
